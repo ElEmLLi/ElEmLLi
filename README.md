@@ -13,10 +13,9 @@
 ---
 
 ## 📫 Contact Me
-< p align = " centro " > 
-    [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pedro.tucorreo@gmail.com)
-    [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedroenriquemendozagarcia/)
-</ p >
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pedro.tucorreo@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedroenriquemendozagarcia/)
+
 ---
 
 ## 📊 Most Used Languages
