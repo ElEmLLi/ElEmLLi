@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hey there! I'm Pedro M
 
-<!--
-**ElEmLLi/ElEmLLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Technologies Engineering student at Tecnológico de Monterrey  
+🌐 I’m always eager to learn new things  
+🎨 I enjoy being **creative**, ⚙️ **efficient**, and ❤️ **passionate** about everything I build.   
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,js,cpp,nodejs,react,mysql,tailwind)
+
+---
+
+## 📫 Contact Me
+< p align = " centro " > 
+    [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pedro.tucorreo@gmail.com)
+    [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedroenriquemendozagarcia/)
+</ p >
+---
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElEmLLi&layout=compact&theme=dark)
+
+---
+
+![GIF](https://media.tenor.com/4glrAdNmrLoAAAAM/angry.gif)
