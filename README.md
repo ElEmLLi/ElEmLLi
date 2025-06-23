@@ -13,7 +13,7 @@
 ---
 
 ## 📫 Contact Me
-[![Gmail](https://skillicons.dev/icons?i=gmail)](Pedro:pedroenriquemendoz@live.com.mx)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pedroenriquemendoz@live.com.mx)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedroenriquemendozagarcia/)
 
 ---
