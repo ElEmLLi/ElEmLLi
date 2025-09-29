@@ -2,7 +2,7 @@
 
 🎓 Computer Technologies Engineering student at Tecnológico de Monterrey  
 🌐 I’m always eager to learn new things  
-🎨 I enjoy being **creative**, **efficient**, and **passionate** about everything I build
+🎨 I enjoy being **creative**, **efficient**, and **passionate** about everything I build  
 😲 I like Roblox
 
 ---
